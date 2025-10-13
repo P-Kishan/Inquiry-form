@@ -1,0 +1,3 @@
+[submodule "libs/Inquiry-Form"]
+	path = libs/Inquiry-Form
+	url = https://github.com/P-Kishan/Inquiry-Form.git
